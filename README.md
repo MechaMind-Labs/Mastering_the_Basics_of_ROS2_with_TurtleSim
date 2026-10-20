@@ -4,7 +4,7 @@
 
 > **Watch:** [ROS 2 beginner course, Part 1](https://youtu.be/1mZGkH0m_yQ) · [Part 2](https://youtu.be/cXf-Dt7AQEM) · [full playlist](https://www.youtube.com/playlist?list=PLdMuvhY3uTKsb2-ouIdMiEGuhIAxSrgIx)
 >
-> **Next steps:** [Edge Avoiding Robot](https://github.com/MechaMind-Labs/Edge_Avoiding_Robot_Gazebo) → [MechaBot](https://github.com/MechaMind-Labs/AMR-Mastery)
+> **Next steps:** [Edge Avoiding Robot](https://github.com/MechaMind-Labs/edge-avoiding-robot) → [MechaBot](https://github.com/MechaMind-Labs/AMR-Mastery)
 
 ---
 
