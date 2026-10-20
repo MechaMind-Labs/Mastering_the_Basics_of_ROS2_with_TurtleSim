@@ -1,4 +1,11 @@
 # 🐢 Mastering ROS 2 Basics with TurtleSim
+
+[![ROS 2: The Complete Beginner's Course](https://img.youtube.com/vi/1mZGkH0m_yQ/hqdefault.jpg)](https://youtu.be/1mZGkH0m_yQ)
+
+> **Watch:** [ROS 2 beginner course, Part 1](https://youtu.be/1mZGkH0m_yQ) · [Part 2](https://youtu.be/cXf-Dt7AQEM) · [full playlist](https://www.youtube.com/playlist?list=PLdMuvhY3uTKsb2-ouIdMiEGuhIAxSrgIx)
+>
+> **Next steps:** [Edge Avoiding Robot](https://github.com/MechaMind-Labs/Edge_Avoiding_Robot) → [MechaBot](https://github.com/MechaMind-Labs/AMR-Mastery)
+
 ---
 
 ## 👋 Welcome, Future Robotics Pioneer!
